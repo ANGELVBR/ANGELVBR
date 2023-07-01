@@ -1,6 +1,12 @@
-Tecnologías con las que he trabajado o estoy trabajando:
+Hi! I´m Angel, 
 
-<h3>Languages & Frameworks</h3>
+I work on software development. Backend, FrontEnd or whatever you need :smirk:.
+
+During these years I have worked with different programming languages, different technologies, companies and customers.
+
+Here’s what I’ve been up to over the years:
+
+<h3>:point_right: Languages & Frameworks</h3>
 <p>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">  
   <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
@@ -22,19 +28,19 @@ Tecnologías con las que he trabajado o estoy trabajando:
   <img src="https://img.shields.io/badge/-React-1e81b0?style=flat&logo=react&logoColor=white" alt="React" title="React">
 </p>
 
-<h3>Unit Test</h3>
+<h3>:point_right: Unit Test</h3>
 <p>
   <img src="https://img.shields.io/badge/-JUnit 5-3178C6?style=flat&logo=junit5&logoColor=white">
   <img src="https://img.shields.io/badge/-Mockito-3178C6?style=flat&logo=mockito&logoColor=white">
 </p>
 
-<h3>Cloud</h3>
+<h3>:point_right:Cloud</h3>
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
 </p>
 
-<h3>Code Quality</h3>
+<h3>:point_right:Code Quality</h3>
 <p>
    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white">
    <img src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat&logo=sonarlint&logoColor=white"> 
@@ -43,14 +49,14 @@ Tecnologías con las que he trabajado o estoy trabajando:
     <img src="https://img.shields.io/badge/-W3C-005A9C?style=flat&logo=w3c&logoColor=white">
 </p>
 
-<h3>Version control</h3>
+<h3>:point_right:Version control</h3>
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Apache Subversion-809CC9?style=flat&logo=subversion&logoColor=white">
 </p>
 
-<h3>Tools:</h3>
+<h3>:point_right:Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/-IntellIJ IDEA-000000?style=flat&logo=IntelliJ+IDEA&logoColor=white">
@@ -61,7 +67,7 @@ Tecnologías con las que he trabajado o estoy trabajando:
   <img src="https://img.shields.io/badge/-IBM Business Process Manager-E10098?style=flat&logo=ibmbpm&logoColor=white">
 </p>
 
-<h3>Database:</h3>
+<h3>:point_right:Database:</h3>
 <p>
   <img src="https://img.shields.io/badge/-MariaDB-47A248?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" title="MariaDB">
   <img src="https://img.shields.io/badge/-MySQL-4479A11?style=flat&logo=mysql&logoColor=white" alt="MySql">
@@ -71,7 +77,7 @@ Tecnologías con las que he trabajado o estoy trabajando:
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&amp;logo=PostgreSQL&amp;logoColor=white" alt="PostgreSQL">
 </p>
 
-<h3>Administration:</h3>
+<h3>:point_right:Administration:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" title="Ubuntu">
   <img src="https://img.shields.io/badge/-Microsoft Exchange-0078D4?style=flat&logo=microsoftexchange&logoColor=white" alt="Microsoft Exchange" title="Microsoft Exchange">
@@ -81,7 +87,7 @@ Tecnologías con las que he trabajado o estoy trabajando:
   <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" alt="Microsoft Windows Server" title="Microsoft Windows Server">
 </p>
 
-<h3>Others:</h3>
+<h3>:point_right:Others:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Home assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white" alt="Home assistant" title="Home assistant">
   <img src="https://img.shields.io/badge/-Node Red-8F0000?style=flat&logo=nodered&logoColor=white" alt="NODE Red" title="NODE Red">
