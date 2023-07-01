@@ -93,3 +93,6 @@ Here’s what I’ve been up to over the years:
   <img src="https://img.shields.io/badge/-Node Red-8F0000?style=flat&logo=nodered&logoColor=white" alt="NODE Red" title="NODE Red">
   <img src="https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white" alt="MQTT" title="MQTT">
 </p>
+
+<p>You can also see my <a href="/cv/CV_AVB_en.pdf">CV</a></p>
+
