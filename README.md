@@ -38,6 +38,8 @@ Here’s what I’ve been up to over the years:
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/-Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white">
 </p>
 
 <h3>:point_right:Code Quality</h3>
@@ -46,7 +48,7 @@ Here’s what I’ve been up to over the years:
    <img src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat&logo=sonarlint&logoColor=white"> 
    <img src="https://img.shields.io/badge/-JACOCO-7D0C02?style=flat&logo=jacoco&logoColor=white">
    <img src="https://img.shields.io/badge/-Codecov-F01F7A?style=flat&logo=codecov&logoColor=white">
-    <img src="https://img.shields.io/badge/-W3C-005A9C?style=flat&logo=w3c&logoColor=white">
+   <img src="https://img.shields.io/badge/-W3C-005A9C?style=flat&logo=w3c&logoColor=white">
 </p>
 
 <h3>:point_right:Version control</h3>
